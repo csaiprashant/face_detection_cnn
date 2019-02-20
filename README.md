@@ -33,4 +33,4 @@ We used the Labeled Faces in the Wild dataset provided by UMass as the positive 
     - Usage: python test_single_face.py --model face.model --image "path to image"
 - train_network.py - Trains a CNN. Cannot be run now as we did not provide the training dataset(due to large size of the dataset).
 
-### For full report, please refer [Project Report](https://github.com/csaiprashant/academic_projects/blob/master/Robust%20Face%20Detection%20Using%20a%20Convolutional%20Neural%20Network/projectreport.pdf)
+### For full report, please refer [Project Report](https://github.com/csaiprashant/face_detection_cnn/blob/master/projectreport.pdf)
