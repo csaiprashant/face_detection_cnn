@@ -18,8 +18,8 @@ We used the Labeled Faces in the Wild dataset provided by UMass as the positive 
 - numpy
 
 ## Sample inputs and outputs
-![Example 1](https://github.com/csaiprashant/academic_projects/blob/master/Robust%20Face%20Detection%20Using%20a%20Convolutional%20Neural%20Network/examples/a.png)
-![Example 2](https://github.com/csaiprashant/academic_projects/blob/master/Robust%20Face%20Detection%20Using%20a%20Convolutional%20Neural%20Network/examples/d.png)
+![Example 1](https://github.com/csaiprashant/face_detection_cnn/blob/master/examples/a.png)
+![Example 2](https://github.com/csaiprashant/face_detection_cnn/blob/master/examples/d.png)
 
 ## Files in the Repository
 - /examples/<x.png> - example outputs from the trained CNN
